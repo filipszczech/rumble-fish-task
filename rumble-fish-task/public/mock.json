@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1and3011",
+    "imageURL": "https://m.media-amazon.com/images/M/MV5BMTUzNTE2NTkzMV5BMl5BanBnXkFtZTgwMDAzOTUyMDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+    "title": "Inferno",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum.",
+    "rating": 5.3
+  },
+  {
+    "id": "2301abc",
+    "imageURL": "https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_SY1000_CR0,0,677,1000_AL_.jpg",
+    "title": "Star Wars: Episode VII - The Force Awakens",
+    "summary": "Praesent tincidunt sapien sit amet libero facilisis, at commodo purus auctor.",
+    "rating": 8.2
+  },
+  {
+    "id": "3332xyz",
+    "imageURL": "https://image.tmdb.org/t/p/w500//qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "title": "The Dark Knight",
+    "summary": "A former criminal mastermind joins forces with a group of terrorists to destroy Gotham City, while Batman struggles to save the city.",
+    "rating": 9.0
+  },
+  {
+    "id": "1245xyz",
+    "imageURL": "http://image.tmdb.org/t/p/w500//ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg",
+    "title": "Inception",
+    "summary": "A skilled thief, who commits corporate espionage by infiltrating the subconscious of his targets, is offered a chance to have his criminal record erased if he can successfully perform an inception.",
+    "rating": 8.8
+  },
+  {
+    "id": "5678def",
+    "imageURL": "http://image.tmdb.org/t/p/w500//9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+    "title": "The Shawshank Redemption",
+    "summary": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "rating": 9.3
+  },
+  {
+    "id": "7890ghj",
+    "imageURL": "http://image.tmdb.org/t/p/w500//gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "title": "Interstellar",
+    "summary": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "rating": 8.6
+  },
+  {
+    "id": "8901ijk",
+    "imageURL": "http://image.tmdb.org/t/p/w500//arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+    "title": "Forrest Gump",
+    "summary": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal, and other historical events unfold from the perspective of an Alabama man with an extraordinary life story.",
+    "rating": 8.8
+  }
+]

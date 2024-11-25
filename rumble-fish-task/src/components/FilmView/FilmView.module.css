@@ -1,0 +1,28 @@
+.centeredText {
+    text-align: center;
+    margin-top: 1rem;
+}
+  
+.noMoreMoviesContainer {
+    max-width: 400px;
+    overflow: hidden;
+    margin: auto;
+    padding: 1rem;
+    background-color: white;
+    text-align: center;
+}
+  
+.mainContainer {
+    max-width: 400px;
+    overflow: hidden;
+    margin: auto;
+    padding: 1rem;
+}
+  
+.buttonsContainer {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+    justify-content: center;
+}
+  

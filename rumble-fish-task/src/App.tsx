@@ -1,11 +1,16 @@
-import './App.css'
+import './App.css';
+import FilmView from "@components/FilmView/FilmView";
+import { FilmsProvider } from "@context/FilmContext";
 
 function App() {
   return (
     <>
-      <div>
-        <h1>Tinder for movies</h1>
-      </div>
+      <FilmsProvider>
+        <div className="container">
+          <h1 className="header">Tinder for movies 🎥</h1>
+          <FilmView />
+        </div>
+      </FilmsProvider>
     </>
   )
 }
